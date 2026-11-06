@@ -423,4 +423,4 @@ WITHOUT MEMSET
 <img width="1205" height="826" alt="image" src="https://github.com/user-attachments/assets/44a0156b-22cd-40fb-aec2-6ff2fdeb9e69" />
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more______less_________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more **less** time.
